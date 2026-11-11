@@ -200,4 +200,4 @@ This repository serves as the official landing page for Soulbringer. The softwar
 **Get the most recent version of Soulbringer today!**
 
 ---
-**Last updated:** 2026-11-10 22:04:57 UTC
+**Last updated:** 2026-11-11 02:25:59 UTC
